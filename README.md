@@ -1,10 +1,10 @@
 # 📄 Project Documentation: Branch Service and Customer Analysis
-1. Objective
+# 1. Objective
 
 The goal of this project was to create a comprehensive overview report and analytical dashboard for a branch, summarizing the current status of service usage and customer segmentation.
 Additionally, the analysis aims to provide data-driven insights to help increase revenue by 20% in the next quarter.
 
-2. Data Source
+# 2. Data Source
 
 Extracted data from the branch’s transaction and customer service usage database (Cassandra/MySQL).
 
@@ -18,7 +18,7 @@ Transaction frequency and volume
 
 Historical revenue data
 
-3. Tools and Technologies
+# 3. Tools and Technologies
 
 Python (for data extraction, transformation, and analysis)
 
@@ -30,7 +30,7 @@ Power BI / Tableau / Dash / Streamlit (for dashboard creation)
 
 GitHub (for version control and collaboration)
 
-4. Process
+# 4. Process
 
 Data Cleaning & Preparation
 
@@ -66,7 +66,7 @@ Suggested focus on high-margin or high-demand services for the next quarter.
 
 Predicted that targeting certain customer segments could help achieve the 20% revenue growth KPI.
 
-5. Results
+# 5. Results
 
 Delivered an interactive dashboard and summary report.
 
@@ -76,7 +76,7 @@ Highlighted top 3 services to focus on for revenue growth.
 
 Improved visibility for management decision-making.
 
-6. GitHub Repository
+# 6. GitHub Repository
 
 The entire project, including:
 
@@ -90,7 +90,7 @@ README with instructions
 
 👉 GitHub Repository Link
 
-7. Next Steps
+# 7. Next Steps
 
 Automate data updates for real-time dashboards.
 
@@ -110,13 +110,13 @@ Since your project focuses mainly on visualization and business insights (not co
 
 Here’s a revised version of your project document (ideal for a GitHub README.md or report summary):
 
-📊 Branch Service & Customer Overview Dashboard
-🧭 Objective
+# 📊 Branch Service & Customer Overview Dashboard
+# 🧭 Objective
 
 The purpose of this project is to provide a visual and analytical overview of a branch’s service usage and customer base.
 The analysis helps management understand current performance, customer segmentation, and identify opportunities to increase revenue in the next quarter.
 
-📈 Scope of Work
+# 📈 Scope of Work
 
 Developed a dashboard to visualize:
 
@@ -136,7 +136,7 @@ Current customer segments
 
 Recommendations to achieve the KPI of +20% revenue growth next quarter
 
-🛠️ Approach
+# 🛠️ Approach
 
 Data Understanding
 
@@ -172,7 +172,7 @@ Suggested focusing on high-revenue, high-growth services to achieve the +20% rev
 
 Proposed targeted marketing campaigns for specific customer segments.
 
-💡 Key Insights
+# 💡 Key Insights
 
 The majority of revenue is concentrated in a few high-demand service types.
 
@@ -180,13 +180,13 @@ There are untapped opportunities in mid-tier customer groups.
 
 Increasing cross-service usage among existing customers can drive faster revenue growth.
 
-📊 Deliverables
+# 📊 Deliverables
 
 Interactive Dashboard: summarizing service performance and customer segmentation.
 
 Summary Report: business insights and recommendations for next quarter’s revenue strategy.
 
-🧠 Skills & Domain Knowledge Applied
+# 🧠 Skills & Domain Knowledge Applied
 
 Business Analytics
 
