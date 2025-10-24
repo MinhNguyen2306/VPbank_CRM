@@ -1,4 +1,4 @@
-#📄 Project Documentation: Branch Service and Customer Analysis
+# 📄 Project Documentation: Branch Service and Customer Analysis
 1. Objective
 
 The goal of this project was to create a comprehensive overview report and analytical dashboard for a branch, summarizing the current status of service usage and customer segmentation.
